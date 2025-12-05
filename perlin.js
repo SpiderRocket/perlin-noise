@@ -1,6 +1,4 @@
-// This is fugly as hell. I simply cut, pasted, and wrapped it with 
-// a simple interface. Sorry! -wwwtyro
-// https://github.com/wwwtyro/perlin.js
+
 
 function Perlin(seed) {
     
